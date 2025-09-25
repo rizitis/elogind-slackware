@@ -8,7 +8,7 @@ New functions appears in this commit: https://github.com/elogind/elogind/commit/
 We all have to say elogind devs <br>
 ## THANK_YOU
 
-This improvments will help a lot Gnome builds and future Plasma builds in no-systemd disrtos.
+These improvments will help a lot Gnome builds and future Plasma builds for no-systemd disrtos.
 
 ## examples
 
