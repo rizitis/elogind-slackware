@@ -35,6 +35,9 @@ freeze mem disk
 
 ```
 
+Everything works in xfce x11 , xfce wayland had some issue with sleep, plasma 6 not working.<br>
+It start killing wifi when suspend/sleep and then start it and refuse to sleep.
+
 since loginctl lock-session works I m fine
 
 ---
