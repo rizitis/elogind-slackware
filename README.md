@@ -1,5 +1,14 @@
 # elogind-slackware
-For testing: modified official rc.elogind and elogind.SlackBuild. Now Slackware-Current  can support new elogind functions: varlinkctl, userdbctl etc
+For testing: modified official rc.elogind and elogind.SlackBuild. <br>
+Now Slackware-Current  can support new elogind functions: varlinkctl, userdbctl etc<br>
+Keep in mind that all these new functions are not released yet we build from master<br>
+New functions appears in this commit: https://github.com/elogind/elogind/commit/75c45d63c8a08a1512c9145e38c040e14900378b <br>
+
+
+We all have to say elogind devs <br>
+## THANK_YOU
+
+This improvments will help a lot Gnome builds and future Plasma builds in no-systemd disrtos.
 
 ## examples
 
