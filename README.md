@@ -257,3 +257,5 @@ If you want to test things clone repo and run SLackBuild, slackpkg new-config an
 **But you are on your own if system breaks.** 
 
 I dont think man pages are 100% ok but i dont care so keep that in mind. 
+
+Most of patches are not in use but i left them here...
