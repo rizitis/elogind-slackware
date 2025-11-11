@@ -42,4 +42,5 @@ since loginctl lock-session works I m fine
 
 ---
 
-2. 
+UPDATE: ISSUE HAS TO DO WITH NVIDIA PROPRIETARY DRIVERS. 
+NOTHING TO DO WITH ELOGIND. 
