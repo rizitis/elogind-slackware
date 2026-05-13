@@ -1,3 +1,5 @@
+UPDATE 13 May 2026: tested with elogind-v257.14, Slackware64-current full updated,  kernel: 6.18.29
+
 # elogind-slackware
 For testing: modified official rc.elogind and elogind.SlackBuild. <br>
 Now Slackware-Current  can support new elogind functions: varlinkctl, userdbctl etc<br>
@@ -11,6 +13,14 @@ We all have to say elogind devs <br>
 These improvments will help a lot Gnome builds and future Plasma builds for no-systemd disrtos.
 
 ## examples
+
+```
+loginctl lock-session          
+loginctl unlock-session      
+loginctl list-sessions          
+loginctl show-session <ID> 
+loginctl suspend
+```
 
 ```
 6.15.9-zen+ ☘P.A.O ☘(Thu Sep-9 2:52:12pm)-(CPU 1.7%:Net 5)-(omen:~)-(12G:206)
@@ -256,6 +266,3 @@ Everything here is unofficial and only for personal use.
 If you want to test things clone repo and run SLackBuild, slackpkg new-config and reboot... <br>
 **But you are on your own if system breaks.** 
 
-I dont think man pages are 100% ok but i dont care so keep that in mind. 
-
-Most of patches are not in use but i left them here...
